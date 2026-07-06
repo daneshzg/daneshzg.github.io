@@ -91,3 +91,30 @@ div.lazy {
 .email-text {
     font-family: Source Code Pro, monospace;
 }
+
+.profile-name {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+    line-height: 1.1;
+}
+
+.profile-name-fa {
+    font-family: "Vazirmatn", sans-serif !important;
+    font-size: 1.5rem;
+    color: #666;
+    margin-top: 4px;
+}
+
+.position-text {
+    font-size: 0.98rem;
+    color: #444;
+    margin-top: 2px;
+}
+
+.no-break {
+    white-space: nowrap;
+    font-size: 0.95rem;
+    font-style: italic;
+    color: #6c757d;
+}

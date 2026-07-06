@@ -1,11 +1,11 @@
-<div id="experience" class="row mt-3">
+<div id="education" class="row mt-3">
   <div class="col-12">
     <div class="card border-0 shadow-sm bg-white">
       <div class="card-body p-4">
-        {% if site.data.profile.experience %}
-          <h6>Experience</h6>
+        {% if site.data.profile.education %}
+          <h6>Education</h6>
           <ul class="list-unstyled mb-0">
-            {% for item in site.data.profile.experience %}
+            {% for item in site.data.profile.education %}
               <li class="media mb-3">
                 {% if item.logo %}
                   <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 42px;" class="mr-3 mt-1">
@@ -20,8 +20,8 @@
 					{% endif %}
 				  </div>
 
-				  {% if item.position %}
-					<div class="position-text">{{ item.position }}</div>
+				  {% if item.degree %}
+					<div class="position-text">{{ item.degree }}</div>
 				  {% endif %}
 
 				</div>
