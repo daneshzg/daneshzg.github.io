@@ -25,6 +25,13 @@ short_bio: >-
     <p>
         My research focuses on Internet congestion control and network measurement. I investigate the design and evaluation of congestion control algorithms, with a particular emphasis on leveraging rich network feedback beyond packet loss, including Explicit Congestion Notification (ECN) and Low Latency, Low Loss, Scalable Throughput (L4S), to improve transport performance. In parallel, I conduct Internet-scale measurement studies to better understand the deployment, evolution, and operational behavior of network mechanisms, including the adoption and use of ECN in today's Internet. Together, these efforts aim to bridge the gap between transport protocol design and their practical deployment in operational networks.
     </p>
+    
+    <p style="background: #fff8db; border-left: 4px solid #f0b429; padding: 12px 16px; border-radius: 6px; margin-top: 1.5rem;">
+      <span style="color: #b7791f; font-weight: 700;">
+        <i class="fas fa-briefcase"></i> Open to opportunities:
+      </span>
+      I am currently open to exciting opportunities in industry and academia related to computer networking, systems engineering, and applied research, with a preference for Germany or Europe while also considering remote opportunities worldwide.
+    </p>   
 portrait_url: /assets/images/photos/danesh.jpg
 # portrait_caption: >-
 
