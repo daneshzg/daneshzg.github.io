@@ -1,7 +1,7 @@
 ---
 date: 2026-07-01
 title: >-
-	Presented Our ECN Paper at TMA 2026
+Presented Our ECN Paper at TMA 2026
 link: PROJECT_URL
 ---
 
